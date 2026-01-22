@@ -1,4 +1,4 @@
-export default function MangalFoods() {
+export default function Manufactures() {
   return (
     <main style={{ 
       display: 'flex', 
