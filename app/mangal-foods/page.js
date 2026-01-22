@@ -1,4 +1,4 @@
-export default function Home() {
+export default function MangalFoods() {
   return (
     <main style={{ 
       display: 'flex', 
@@ -8,7 +8,7 @@ export default function Home() {
       fontSize: '3rem',
       fontFamily: 'Arial, sans-serif'
     }}>
-      <h1>Hello</h1>
+      <h1>Hello World</h1>
     </main>
   );
 }
